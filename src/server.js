@@ -9,7 +9,7 @@ const logger = require("./logger");
 const naughty = require("./naughty");
 const config = require("./config");
 
-const wss = new WebSocket.Server({
+const wss = new WebSocket.WebSocketServer({
   noServer: true, // we setup the server on our own
   clientTracking: false, // we do our own tracking
   maxPayload: 1024 * 1024, // 1 MB should be plenty
@@ -234,6 +234,7 @@ wss.on("connection", (ws, req) => {
     }
 
     try {
+      //console.log(data.toString());
       processMessage(data);
     } catch (error) {
       client.error("Error handling connection: " + error);

@@ -1,1 +1,128 @@
 [2025-10-30T12:04:46.535Z] info: Server started on port: 9080
+[2025-10-30T13:25:40.000Z] info: Server started on port: 9080
+[2025-10-30T13:46:57.540Z] info: [::1] Connection opened
+[2025-10-30T13:47:25.328Z] info: Created room: 93928148
+[2025-10-30T13:47:25.329Z] info: [::1 "testing" in 93928148] Joined room (peers: 1)
+[2025-10-30T13:47:26.343Z] info: Pinging 1 clients...
+[2025-10-30T13:47:44.028Z] info: Server started on port: 9080
+[2025-10-30T13:48:20.376Z] info: [::1] Connection opened
+[2025-10-30T13:48:20.453Z] info: Created room: 1761832099237
+[2025-10-30T13:48:20.454Z] info: [::1 "player1761832099237" in 1761832099237] Joined room (peers: 1)
+[2025-10-30T13:48:21.694Z] info: [::1 "player1761832099237" in 1761832099237] Connection closed: code 1005
+[2025-10-30T13:53:14.321Z] info: [::1] Connection opened
+[2025-10-30T13:53:14.423Z] info: Created room: 1761832393176
+[2025-10-30T13:53:14.423Z] info: [::1 "player1761832393176" in 1761832393176] Joined room (peers: 1)
+[2025-10-30T13:53:15.166Z] info: [::1 "player1761832393176" in 1761832393176] Connection closed: code 1005
+[2025-10-30T13:54:27.918Z] info: Server started on port: 9080
+[2025-10-30T13:54:53.598Z] info: [10.42.1.0] Connection opened
+[2025-10-30T13:54:53.741Z] info: Created room: 1761832492531
+[2025-10-30T13:54:53.743Z] info: [10.42.1.0 "player1761832492531" in 1761832492531] Joined room (peers: 1)
+[2025-10-30T13:54:53.985Z] info: [10.42.1.0 "player1761832492531" in 1761832492531] Connection closed: code 1005
+[2025-10-30T13:55:34.561Z] info: Server started on port: 9080
+[2025-10-30T13:55:44.985Z] info: [10.42.1.0] Connection opened
+[2025-10-30T13:55:45.030Z] info: Created room: 1761832543890
+[2025-10-30T13:55:45.031Z] info: [10.42.1.0 "player1761832543890" in 1761832543890] Joined room (peers: 1)
+[2025-10-30T13:55:45.860Z] info: [10.42.1.0 "player1761832543890" in 1761832543890] Connection closed: code 1005
+[2025-10-30T13:56:30.227Z] info: [10.42.1.0] Connection opened
+[2025-10-30T13:56:30.279Z] info: Created room: 38913
+[2025-10-30T13:56:30.279Z] info: [10.42.1.0 "player1761832589164" in 38913] Joined room (peers: 1)
+[2025-10-30T13:56:30.399Z] info: [10.42.1.0 "player1761832589164" in 38913] Connection closed: code 1005
+[2025-10-30T13:57:23.320Z] info: Server started on port: 9080
+[2025-10-30T14:00:59.310Z] info: [10.42.1.0] Connection opened
+[2025-10-30T14:00:59.401Z] info: Created room: 38913
+[2025-10-30T14:00:59.402Z] info: [10.42.1.0 "player1761832858281" in 38913] Joined room (peers: 1)
+[2025-10-30T14:00:59.443Z] info: [10.42.1.0 "player1761832858281" in 38913] Connection closed: code 1005
+[2025-10-30T14:01:07.205Z] info: Server started on port: 9080
+[2025-10-30T14:01:21.374Z] info: [10.42.1.0] Connection opened
+[2025-10-30T14:01:21.470Z] info: Created room: 38913
+[2025-10-30T14:01:21.471Z] info: [10.42.1.0 "player1761832880337" in 38913] Joined room (peers: 1)
+[2025-10-30T14:01:21.613Z] info: [10.42.1.0 "player1761832880337" in 38913] Connection closed: code 1005
+[2025-10-30T14:02:11.074Z] info: Server started on port: 9080
+[2025-10-30T14:02:31.187Z] info: [10.42.1.0] Connection opened
+[2025-10-30T14:02:31.229Z] info: Created room: 38913
+[2025-10-30T14:02:31.229Z] info: [10.42.1.0 "player1761832950152" in 38913] Joined room (peers: 1)
+[2025-10-30T14:02:31.325Z] info: [10.42.1.0 "player1761832950152" in 38913] Connection closed: code 1005
+[2025-10-30T14:02:39.035Z] info: Server started on port: 9080
+[2025-10-30T14:02:51.928Z] info: [10.42.1.0] Connection opened
+[2025-10-30T14:02:51.972Z] info: Created room: 38913
+[2025-10-30T14:02:51.973Z] info: [10.42.1.0 "player1761832970921" in 38913] Joined room (peers: 1)
+[2025-10-30T14:02:52.091Z] info: [10.42.1.0 "player1761832970921" in 38913] Connection closed: code 1005
+[2025-10-30T14:06:11.962Z] info: Server started on port: 9080
+[2025-10-30T14:06:33.832Z] info: [10.42.1.0] Connection opened
+[2025-10-30T14:06:33.943Z] info: Created room: 38913
+[2025-10-30T14:06:33.944Z] info: [10.42.1.0 "player1761833192791" in 38913] Joined room (peers: 1)
+[2025-10-30T14:06:34.085Z] info: [10.42.1.0 "player1761833192791" in 38913] Connection closed: code 1005
+[2025-10-30T14:08:14.257Z] info: Server started on port: 9080
+[2025-10-30T14:09:16.797Z] info: [10.42.1.0] Connection opened
+[2025-10-30T14:09:16.865Z] info: Created room: 38913
+[2025-10-30T14:09:16.866Z] info: [10.42.1.0 "player1761833355703" in 38913] Joined room (peers: 1)
+[2025-10-30T14:09:16.907Z] info: [10.42.1.0 "player1761833355703" in 38913] Connection closed: code 1005
+[2025-10-30T14:13:28.290Z] info: Server started on port: 9080
+[2025-10-30T14:13:46.292Z] info: [10.42.1.0] Connection opened
+[2025-10-30T14:13:46.399Z] info: Created room: 38913
+[2025-10-30T14:13:46.400Z] info: [10.42.1.0 "player1761833625232" in 38913] Joined room (peers: 1)
+[2025-10-30T14:13:46.454Z] info: [10.42.1.0 "player1761833625232" in 38913] Connection closed: code 1005
+[2025-10-30T14:17:11.765Z] info: [10.42.1.0] Connection opened
+[2025-10-30T14:17:11.807Z] info: [10.42.1.0 "player1761833830729" in 38913] Joined room (peers: 1)
+[2025-10-30T14:17:11.949Z] info: [10.42.1.0 "player1761833830729" in 38913] Connection closed: code 1005
+[2025-10-30T14:18:28.515Z] info: [10.42.2.0] Connection opened
+[2025-10-30T14:18:28.629Z] info: [10.42.2.0 "player1761833908137" in 38913] Joined room (peers: 1)
+[2025-10-30T14:18:28.673Z] info: [10.42.2.0 "player1761833908137" in 38913] Connection closed: code 1005
+[2025-10-30T14:27:45.179Z] info: [10.42.1.0] Connection opened
+[2025-10-30T14:27:45.255Z] info: [10.42.1.0 "player1761834464039" in 38913] Joined room (peers: 1)
+[2025-10-30T14:27:45.325Z] info: [10.42.1.0 "player1761834464039" in 38913] Connection closed: code 1005
+[2025-10-30T14:27:53.371Z] info: [10.42.2.0] Connection opened
+[2025-10-30T14:27:53.467Z] info: [10.42.2.0 "player1761834473042" in 38913] Joined room (peers: 1)
+[2025-10-30T14:27:53.568Z] info: [10.42.2.0 "player1761834473042" in 38913] Connection closed: code 1005
+[2025-10-30T14:36:38.272Z] info: [10.42.2.0] Connection opened
+[2025-10-30T14:36:38.386Z] info: [10.42.2.0 "player1761834997933" in 38913] Joined room (peers: 1)
+[2025-10-30T14:36:38.640Z] info: [10.42.2.0 "player1761834997933" in 38913] Connection closed: code 1005
+[2025-10-30T14:58:11.837Z] info: Server started on port: 9080
+[2025-10-30T15:02:05.011Z] info: [10.42.1.0] Connection opened
+[2025-10-30T15:02:05.093Z] info: Created room: 1761836523794
+[2025-10-30T15:02:05.094Z] info: [10.42.1.0 "person1761836523794" in 1761836523794] Joined room (peers: 1)
+[2025-10-30T15:02:05.151Z] info: [10.42.1.0 "person1761836523794" in 1761836523794] Connection closed: code 1005
+[2025-10-30T15:03:07.435Z] info: [10.42.1.0] Connection opened
+[2025-10-30T15:03:07.479Z] info: Created room: 1761836586328
+[2025-10-30T15:03:07.480Z] info: [10.42.1.0 "person1761836586328" in 1761836586328] Joined room (peers: 1)
+[2025-10-30T15:03:07.665Z] info: [10.42.1.0 "person1761836586328" in 1761836586328] Connection closed: code 1005
+[2025-10-30T15:13:07.066Z] info: [10.42.1.0] Connection opened
+[2025-10-30T15:13:07.132Z] info: [10.42.1.0] Connection closed: code 1006
+[2025-10-30T15:13:15.175Z] info: [10.42.1.0] Connection opened
+[2025-10-30T15:13:15.220Z] info: Created room: 1761837194082
+[2025-10-30T15:13:15.220Z] info: [10.42.1.0 "person1761837194082" in 1761837194082] Joined room (peers: 1)
+[2025-10-30T15:13:15.325Z] info: [10.42.1.0 "person1761837194082" in 1761837194082] Connection closed: code 1005
+[2025-10-30T15:14:08.309Z] info: [10.42.1.0] Connection opened
+[2025-10-30T15:14:08.376Z] info: [10.42.1.0] Connection closed: code 1006
+[2025-10-30T15:16:00.808Z] info: [10.42.1.0] Connection opened
+[2025-10-30T15:16:00.874Z] info: Created room: 1761837370200
+[2025-10-30T15:16:00.875Z] info: [10.42.1.0 "person1761837370200" in 1761837370200] Joined room (peers: 1)
+[2025-10-30T15:16:00.924Z] info: [10.42.1.0 "person1761837370200" in 1761837370200] Connection closed: code 1005
+[2025-10-30T15:17:20.721Z] info: [10.42.2.0] Connection opened
+[2025-10-30T15:17:20.827Z] info: Created room: 1761837440331
+[2025-10-30T15:17:20.827Z] info: [10.42.2.0 "person1761837440331" in 1761837440331] Joined room (peers: 1)
+[2025-10-30T15:17:22.455Z] info: Pinging 1 clients...
+[2025-10-30T15:17:52.455Z] info: Pinging 1 clients...
+[2025-10-30T15:18:22.455Z] info: Pinging 1 clients...
+[2025-10-30T15:18:35.858Z] info: [10.42.2.0 "person1761837440331" in 1761837440331] Connection closed: code 1001
+[2025-10-30T15:18:42.452Z] info: [10.42.2.0] Connection opened
+[2025-10-30T15:18:42.555Z] info: Created room: 1761837522049
+[2025-10-30T15:18:42.556Z] info: [10.42.2.0 "person1761837522049" in 1761837522049] Joined room (peers: 1)
+[2025-10-30T15:18:52.456Z] info: Pinging 1 clients...
+[2025-10-30T15:19:03.314Z] info: [10.42.2.0 "person1761837522049" in 1761837522049] Connection closed: code 1001
+[2025-10-30T15:19:09.321Z] info: [10.42.2.0] Connection opened
+[2025-10-30T15:19:09.442Z] info: Created room: 1761837548935
+[2025-10-30T15:19:09.443Z] info: [10.42.2.0 "person1761837548935" in 1761837548935] Joined room (peers: 1)
+[2025-10-30T15:19:22.456Z] info: Pinging 1 clients...
+[2025-10-30T15:19:52.463Z] info: Pinging 1 clients...
+[2025-10-30T15:20:11.425Z] info: [10.42.2.0 "person1761837548935" in 1761837548935] Connection closed: code 1001
+[2025-10-30T15:20:17.411Z] info: [10.42.2.0] Connection opened
+[2025-10-30T15:20:17.531Z] info: Created room: 1761837617018
+[2025-10-30T15:20:17.532Z] info: [10.42.2.0 "person1761837617018" in 1761837617018] Joined room (peers: 1)
+[2025-10-30T15:20:22.463Z] info: Pinging 1 clients...
+[2025-10-30T15:20:52.463Z] info: Pinging 1 clients...
+[2025-10-30T15:21:22.463Z] info: Pinging 1 clients...
+[2025-10-30T15:21:52.463Z] info: Pinging 1 clients...
+[2025-10-30T15:22:22.463Z] info: Pinging 1 clients...
+[2025-10-30T15:22:52.463Z] info: Pinging 1 clients...
+[2025-10-30T15:23:01.676Z] info: [10.42.2.0 "person1761837617018" in 1761837617018] Connection closed: code 1006
